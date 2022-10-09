@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gsaw18
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on web development
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on web-based programming projects
 - 📫 How to reach me gsawaya0460@sdsu.edu
 
 <!---
